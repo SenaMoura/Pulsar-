@@ -6,8 +6,9 @@ O projeto tem como objetivo recriar usando o trimesh, como seria o pulsar visto 
 
 para que o projeto funcione vc precisa instalar as seguintes coisas
 
-[x] pip install trimesh
-[x] pip install "pyglet<2"
-ter python no computador
+- [x] pip install trimesh
+- [x] pip install "pyglet<2"
+- [x] ter python no computador
+
 
 
